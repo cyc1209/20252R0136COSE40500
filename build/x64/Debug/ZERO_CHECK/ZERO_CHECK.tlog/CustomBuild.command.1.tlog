@@ -1,0 +1,10 @@
+^D:\인시\ASSIGN-2-V1.1\BUILD\CMAKEFILES\8E09FD736F6D8143DEC4FC2A7AF28107\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/인시/assign-2-v1.1 -BD:/인시/assign-2-v1.1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/인시/assign-2-v1.1/build/Assign_2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
