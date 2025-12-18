@@ -1,2 +1,5 @@
-﻿  main.cpp
-  assign_2.vcxproj -> D:\인시\assign-2-v1.1\build\Debug\assign_2.exe
+﻿  Building Custom Rule D:/iv/assign-2-v1.1/CMakeLists.txt
+  main.cpp
+  textfile.cpp
+  코드를 생성하고 있습니다...
+  assign_2.vcxproj -> D:\iv\assign-2-v1.1\build\Debug\assign_2.exe

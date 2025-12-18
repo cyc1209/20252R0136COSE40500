@@ -1,32 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\인시\assign-2-v1.1\main.cpp">
+    <ClCompile Include="D:\iv\assign-2-v1.1\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\인시\assign-2-v1.1\textfile.cpp">
+    <ClCompile Include="D:\iv\assign-2-v1.1\textfile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\인시\assign-2-v1.1\textfile.h">
+    <ClInclude Include="D:\iv\assign-2-v1.1\textfile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\인시\assign-2-v1.1\CMakeLists.txt" />
+    <CustomBuild Include="D:\iv\assign-2-v1.1\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="D:\인시\assign-2-v1.1\gshader.geom" />
-    <None Include="D:\인시\assign-2-v1.1\pshader.frag" />
-    <None Include="D:\인시\assign-2-v1.1\vshader.vert" />
+    <None Include="D:\iv\assign-2-v1.1\gshader.geom" />
+    <None Include="D:\iv\assign-2-v1.1\pshader.frag" />
+    <None Include="D:\iv\assign-2-v1.1\vshader.vert" />
+    <None Include="D:\iv\assign-2-v1.1\vshader2.vert" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{30C3D27D-975C-39D0-9425-0F347D4AFA42}</UniqueIdentifier>
+      <UniqueIdentifier>{637CA8FE-C403-316F-89CB-B5528165723F}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{90AC74DC-7F54-3913-BA12-A090FF4F9F18}</UniqueIdentifier>
+      <UniqueIdentifier>{AC45654C-FB6F-35EE-BD7F-1A73DB4B5586}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
